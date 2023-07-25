@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @valdeni7
 - 👀 I’m interested in programação 
 - 🌱 I’m currently learning algumas coisas na area do java, programação
-- 💞️ I’m looking to collaborate on projetos
+- 💞️ I’m looking to collaborate on projetos algum dia
+  
   
 
 <!---
