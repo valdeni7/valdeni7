@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @valdeni7
 - 👀 I’m interested in programação 
-- 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on secret projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning algumas coisas na area do java, programação
+- 💞️ I’m looking to collaborate on projetos
+  
 
 <!---
 valdeni7/valdeni7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
